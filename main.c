@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>      // 为了 exit()
+#include <stdlib.h>
 #include "calculations.h"
 #include "history.h"
 
@@ -42,3 +42,4 @@ int main(void) {
         }
     }
 }
+
